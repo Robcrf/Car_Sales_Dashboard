@@ -66,6 +66,5 @@ It combines KPIs, trend analysis, segmentation, and geographic insights in a sin
 
 The dashboard enables a holistic evaluation of car sales performance by combining financial, operational, product, and geographic perspectives, supporting both tactical monitoring and strategic planning.
 
-🗣️ ## Interview-Ready One-Liner
 
 “This dashboard provides a consolidated view of car sales performance, allowing stakeholders to track revenue, volume, pricing, trends, and regional performance in real time.”
